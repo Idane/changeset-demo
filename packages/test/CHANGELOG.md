@@ -1,5 +1,11 @@
 # test
 
+## 1.0.0
+
+### Major Changes
+
+- b8a491e: this is a major release
+
 ## 0.0.2
 
 ### Patch Changes
